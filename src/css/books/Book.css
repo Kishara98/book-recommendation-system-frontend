@@ -1,0 +1,19 @@
+.book-table {
+    border: 1px solid #dee2e6;
+    border-radius: 8px;
+    overflow: hidden;
+  }
+  
+  .book-row:hover {
+    background-color: #f9f9f9;
+  }
+  
+  .btn-group .btn {
+    margin: 0 20px;
+  }
+  
+  .no-books-found {
+    margin-top: 20px;
+    font-style: italic;
+  }
+  
