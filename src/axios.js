@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const axiosInstance = axios.create({
-  baseURL: 'http://localhost:5000/api',  // Node.js backend base URL
+  baseURL: 'https://book-recommendation-system-wt3eo.ondigitalocean.app/api',  // Node.js backend base URL
   headers: {
     'Content-Type': 'application/json',
   },
